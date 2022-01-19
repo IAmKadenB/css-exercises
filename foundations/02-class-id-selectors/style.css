@@ -1,0 +1,20 @@
+/* styles.css */
+.paragraph-v1 {
+    background-color: #ff000060;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#contents-v1 {
+    color: #0000ff;
+    font-size: 36;
+}
+
+.paragraph-v2 {
+    font-size: 24;
+}
+
+#contents-v2 {
+    background-color: #00ff0085;
+    font-size: 24;
+    font-weight: bold;
+}
